@@ -1,0 +1,18 @@
+D:\15.11.9279\AppLatihan9279\AppLatihan9279\bin\Debug\AppLatihan9279.exe.config
+D:\15.11.9279\AppLatihan9279\AppLatihan9279\obj\Debug\AppLatihan9279.csprojResolveAssemblyReference.cache
+D:\15.11.9279\AppLatihan9279\AppLatihan9279\obj\Debug\AppLatihan9279.Properties.Resources.resources
+D:\15.11.9279\AppLatihan9279\AppLatihan9279\obj\Debug\AppLatihan9279.View.Form1.resources
+D:\15.11.9279\AppLatihan9279\AppLatihan9279\obj\Debug\AppLatihan9279.csproj.GenerateResource.Cache
+D:\15.11.9279\AppLatihan9279\AppLatihan9279\bin\Debug\AppLatihan9279.exe
+D:\15.11.9279\AppLatihan9279\AppLatihan9279\bin\Debug\AppLatihan9279.pdb
+D:\15.11.9279\AppLatihan9279\AppLatihan9279\obj\Debug\AppLatihan9279.exe
+D:\15.11.9279\AppLatihan9279\AppLatihan9279\obj\Debug\AppLatihan9279.pdb
+F:\Data Kuliah\Materi PL\Project\AppLatihan9279\AppLatihan9279\bin\Debug\AppLatihan9279.exe.config
+F:\Data Kuliah\Materi PL\Project\AppLatihan9279\AppLatihan9279\bin\Debug\AppLatihan9279.exe
+F:\Data Kuliah\Materi PL\Project\AppLatihan9279\AppLatihan9279\bin\Debug\AppLatihan9279.pdb
+F:\Data Kuliah\Materi PL\Project\AppLatihan9279\AppLatihan9279\obj\Debug\AppLatihan9279.csprojResolveAssemblyReference.cache
+F:\Data Kuliah\Materi PL\Project\AppLatihan9279\AppLatihan9279\obj\Debug\AppLatihan9279.Properties.Resources.resources
+F:\Data Kuliah\Materi PL\Project\AppLatihan9279\AppLatihan9279\obj\Debug\AppLatihan9279.View.Form1.resources
+F:\Data Kuliah\Materi PL\Project\AppLatihan9279\AppLatihan9279\obj\Debug\AppLatihan9279.csproj.GenerateResource.Cache
+F:\Data Kuliah\Materi PL\Project\AppLatihan9279\AppLatihan9279\obj\Debug\AppLatihan9279.exe
+F:\Data Kuliah\Materi PL\Project\AppLatihan9279\AppLatihan9279\obj\Debug\AppLatihan9279.pdb
